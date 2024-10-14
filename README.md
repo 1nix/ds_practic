@@ -1,2 +1,3 @@
-# yandex_practic
-yandex_practic
+# ds_practic
+ds
+_practic
