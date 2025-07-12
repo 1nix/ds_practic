@@ -1,5 +1,8 @@
 # Data_science_practic
 
+# Сертификат:
+ - <a href ="">Яндекс.Практикум: Специалист по Data Science</a>
+
 # Выпускной проект
 <table>
 <tr>
